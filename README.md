@@ -1,5 +1,5 @@
 # Blackjack Game in Python
-This project is a simple proyect Blackjack game written in Python.  
+This project is a simple proyect Blackjack game coded in Python.  
 It simulates a classic Blackjack experience where the player competes against the dealer following standard rules.
 ## Features
 - Classic Blackjack rules
