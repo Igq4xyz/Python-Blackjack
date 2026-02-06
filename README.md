@@ -8,7 +8,7 @@ It simulates a classic Blackjack experience where the player competes against th
 - Score calculation and win/lose conditions
 ## Installation
 1. Clone the repository:
-   git clone https://github.com/Igq4xyz/blackjack-python.git
+   git clone https://github.com/Igq4xyz/Python-Blackjack.git
 
 2. Navigate to the project directory:
    cd blackjack-python
